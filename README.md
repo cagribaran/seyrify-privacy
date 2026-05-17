@@ -1,0 +1,1 @@
+# seyrify-privacy
